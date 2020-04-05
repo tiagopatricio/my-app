@@ -1,0 +1,7 @@
+{
+    "overview": ["Welcome to my website, hope you will enjoy the tour.",
+        "I'm a IT Engineer with a special carrer formation. In the very beginning, I started studying in the health field, but soon changed to other engineering related fields.",
+        "Now, I mostly work as Java developer, but keep always interested in all the other IT technologies. And this site, built with react, is the prove and a little demonstration of that."],
+    "primarySkills": ["Java SE", "Java EE", "Oracle SQL", "Oracle PL/SQL", "Shell script", "HTML & CSS", "Javascript", "React.js"],
+    "otherSkills": ["Microsoft Office", "SoapUI", "Eclipse", "Maven", "SQL Developer", "Tortoise SVN", "Git", "Apache Tomcat", "JBoss", "Netbeans", "Jenkins", "SonarLint"]
+}

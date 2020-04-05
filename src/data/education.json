@@ -1,0 +1,254 @@
+{
+	"Education": [
+      {
+        "Period": {
+          "From": {
+            "year": "2018",
+            "month": "09",
+            "day": "25"
+          },
+          "Current": "true"
+        },
+        "Title": "Airline Transport Pilot Licence (ATPL) course",
+        "Activities": "Completed the following exams in the Authority (ANAC): Air law; Meteorology; Radio navigation; General navigation; Performance; Principles of flight; Operational procedures; Mass and Balance; VFR and IFR communications.",
+        "Organisation": {
+          "Name": "Sevenair Academy",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Tires",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "Period": {
+          "From": {
+            "year": "2016",
+            "month": "05",
+            "day": "01"
+          },
+          "To": {
+            "year": "2016",
+            "month": "05",
+            "day": "31"
+          },
+          "Current": "false"
+        },
+        "Title": "Java Development training",
+        "Activities": "Java SE and Java EE.​",
+        "Organisation": {
+          "Name": "Altran Portugal",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Fundão",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "Period": {
+          "From": { "year": "2015" },
+          "To": {
+            "year": "2015",
+            "month": "10",
+            "day": "28"
+          },
+          "Current": "false"
+        },
+        "Title": "Training - CCNA - Connecting Networks",
+        "Organisation": {
+          "Name": "Centro de Formação Interação UBI Tecido Empresarial",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Covilhã",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "Period": {
+          "From": { "year": "2011" },
+          "To": {
+            "year": "2013",
+            "month": "11",
+            "day": "15"
+          },
+          "Current": "false"
+        },
+        "Title": "Master degree in Electrical and Computer Engineering: Bionic Systems",
+        "Activities": "Final classification of 17 values.",
+        "Organisation": {
+          "Name": "Universidade da Beira Interior",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Covilhã",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        },
+        "Level": {
+          "Code": "7",
+          "Label": "EQF level 7"
+        }
+      },
+      {
+        "Period": {
+          "From": { "year": "2013" },
+          "To": {
+            "year": "2013",
+            "month": "07",
+            "day": "12"
+          },
+          "Current": "false"
+        },
+        "Title": "Training - CCNA Exploration: Routing Protocols and Concepts",
+        "Organisation": {
+          "Name": "Centro de Formação Interação UBI Tecido Empresarial",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Covilhã",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "Period": {
+          "From": { "year": "2013" },
+          "To": {
+            "year": "2013",
+            "month": "05",
+            "day": "29"
+          },
+          "Current": "false"
+        },
+        "Title": "Training - CCNA Exploration: LAN Switching and Wireless",
+        "Organisation": {
+          "Name": "Centro de Formação Interação UBI Tecido Empresarial",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Covilhã",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "Period": {
+          "From": { "year": "2013" },
+          "To": {
+            "year": "2013",
+            "month": "03",
+            "day": "07"
+          },
+          "Current": "false"
+        },
+        "Title": "Training - CCNA Exploration: Network Fundamentals",
+        "Organisation": {
+          "Name": "Centro de Formação Interação UBI Tecido Empresarial",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Covilhã",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "Period": {
+          "From": { "year": "2008" },
+          "To": {
+            "year": "2011",
+            "month": "07",
+            "day": "26"
+          },
+          "Current": "false"
+        },
+        "Title": "Graduation in Biomedical science",
+        "Activities": "Final classification: 14 values",
+        "Organisation": {
+          "Name": "Universidade da Beira Interior",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Covilhã",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        },
+        "Level": {
+          "Code": "6",
+          "Label": "EQF level 6"
+        }
+      },
+      {
+        "Period": {
+          "From": { "year": "2005" },
+          "To": { "year": "2008" },
+          "Current": "false"
+        },
+        "Title": "High school",
+        "Activities": "Course of science and technologies. Final classification: 16 values.​",
+        "Organisation": {
+          "Name": "Escola Secundária de Pinhel",
+          "ContactInfo": {
+            "Address": {
+              "Contact": {
+                "Municipality": "Pinhel",
+                "Country": {
+                  "Code": "PT",
+                  "Label": "Portugal"
+                }
+              }
+            }
+          }
+        },
+        "Level": {
+          "Code": "3",
+          "Label": "EQF level 3"
+        }
+      }
+    ]
+}

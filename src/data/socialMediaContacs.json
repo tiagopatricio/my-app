@@ -1,0 +1,27 @@
+[
+    {
+        "name": "linkedin",
+        "img": "./img/if_Asset_18_26432041.png",
+        "href": "https://www.linkedin.com/in/tiago-patricio-a7461164/"
+    },
+    {
+        "name": "skype",
+        "img": "./img/if_Asset_36_26432101.png",
+        "href": "skype:tiago_patricio_90?userinfo"
+    },
+    {
+        "name": "whatsapp",
+        "img": "./img/if_Asset_4_26432321.png",
+        "href": "https://api.whatsapp.com/send?phone=351914476422&text=Hello!"
+    },
+    {
+        "name": "google",
+        "img": "./img/if_Asset_5_26432311.png",
+        "href": "https://plus.google.com/u/0/112483735907479406167"
+    },
+    {
+        "name": "facebook",
+        "img": "./img/if_Asset_1_26431991.png",
+        "href": "https://www.facebook.com/tiago.patricio.16"
+    }
+]

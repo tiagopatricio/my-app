@@ -1,0 +1,97 @@
+{
+	"WorkExperience": [
+	  {
+		"Period": {
+		  "From": {
+			"year": "2018",
+			"month": "03",
+			"day": "01"
+		  },
+		  "To": {
+			"year": "2018",
+			"month": "09",
+			"day": "28"
+		  },
+		  "Current": "false"
+		},
+		"Position": { "Label": "Computer systems analyst/Developer" },
+		"Activities": "SPOC of the Measurement Data Management (MDM) area and Third Party Access (TPA) Billing area; Corrective, preventive and evolutive support of the application Oracle CC&amp;B; Main technologies: Java, PL/SQL, Unix systems and ServiceNow.",
+		"Employer": {
+		  "Name": "Growin",
+		  "ContactInfo": {
+			"Address": {
+			  "Contact": {
+				"Municipality": "Lisbon",
+				"Country": {
+				  "Code": "PT",
+				  "Label": "Portugal"
+				}
+			  }
+			}
+		  }
+		}
+	  },
+	  {
+		"Period": {
+		  "From": {
+			"year": "2016",
+			"month": "09",
+			"day": "05"
+		  },
+		  "To": {
+			"year": "2018",
+			"month": "02",
+			"day": "28"
+		  },
+		  "Current": "false"
+		},
+		"Position": { "Label": "Programmer Analyst" },
+		"Activities": "Main roles: Java development for web applications; Development of stored procedures in PL/SQL; Anomaly fixing; Production of Shell scripts; Integration tests; Installation of Unix environments for tests.",
+		"Employer": {
+		  "Name": "Altran Portugal",
+		  "ContactInfo": {
+			"Address": {
+			  "Contact": {
+				"Municipality": "Fundão",
+				"Country": {
+				  "Code": "PT",
+				  "Label": "Portugal"
+				}
+			  }
+			}
+		  }
+		}
+	  },
+	  {
+		"Period": {
+		  "From": {
+			"year": "2014",
+			"month": "07",
+			"day": "07"
+		  },
+		  "To": {
+			"year": "2016",
+			"month": "04",
+			"day": "30"
+		  },
+		  "Current": "false"
+		},
+		"Position": { "Label": "Application support" },
+		"Activities": "Integration in proactive team with the main roles: DB supervision; Data analyses; Detection of critical incidents and ticket opening; Production of automated scripts for daily treatments; Correction of punctual problems in the DB; Technical support.",
+		"Employer": {
+		  "Name": "Altran Portugal",
+		  "ContactInfo": {
+			"Address": {
+			  "Contact": {
+				"Municipality": "Fundão",
+				"Country": {
+				  "Code": "PT",
+				  "Label": "Portugal"
+				}
+			  }
+			}
+		  }
+		}
+	  }
+	]
+}
